@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![banner](https://github.com/MicaelNCosta/casacomigo/blob/main/Dark%20Blue%20Futuristic%20Technology%20Linkedin%20Banner.png)
 
-<h1 align="center">Sou Micael Nunes da Costa</h1>
+<h1 align="center">Micael Nunes da Costa</h1>
 <h3 align="center">Projetos diversos a medida que vou me aprimorando e me desnvolvendo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=micaelncosta&label=Profile%20views&color=0e75b6&style=flat" alt="micaelncosta" /> </p>
